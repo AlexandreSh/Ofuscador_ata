@@ -1,0 +1,433 @@
+Timbre
+
+ATA DE COLAÇÃO DE GRAU DA FACULDADE DE COMPUTAÇÃO Nº 07/2024
+
+
+
+Aos quinze dias do mês de dezembro do ano de dois mil e vinte e quatro, às dezenove horas, no Ginásio Moreninho, teve início a Sessão Solene de Colação de Grau, de forma presencial, dos graduandos dos Cursos de BACHARELADO em CIÊNCIA DA COMPUTAÇÃO, ENGENHARIA DE COMPUTAÇÃO, ENGENHARIA DE SOFTWARE e SISTEMAS DE INFORMAÇÃO da Faculdade de Computação da Universidade Federal de Mato Grosso do Sul (UFMS). A Solenidade foi presidida pela Reitora da UFMS, a Profª Drª Camila  Celeste Brandão Ferreira Ítavo, acompanhada da Diretora da Faculdade de Computação, a Profª Drª Liana Dessandre Duenha Garanhani, das Coordenações de Curso, da Assistente Acadêmica e demais autoridades registradas pelo Cerimonial. Ato contínuo, o Cerimonial convidou os formandos para proferirem o juramento. Dando prosseguimento, a Magnífica Reitora conferiu os Graus de Bacharel aos concluintes relacionados abaixo, que tiveram suas presenças confirmadas. Após os devidos pronunciamentos, o Presidente da Sessão Solene declarou encerrada a solenidade, da qual eu, Maria Cristina Dias da Rocha Pavan, na qualidade de Assistente Acadêmica, lavrei a presente ata, que dato e assino juntamente com as demais autoridades e acadêmicos concluintes.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+BACHARÉIS EM CIÊNCIA DA COMPUTAÇÃO:
+
+
+
+microcontrolador indutor De sinal
+
+conjunto bit escala
+
+bateria relé De barramento
+
+bateria validação switch periférico transistor
+
+bateria dispositivo processo programação
+
+termômetro compartilhamento gerador
+
+voltaje protótipo resposta
+
+interatividade solução sequenciador unidade
+
+dispositivo Dos bit entrada
+
+dispositivo solução optical microcontrolador
+
+dispositivo solução analógico De qualidade
+
+máquina solução desempenho
+
+testador corrente sensor
+
+programação antena código
+
+
+ 
+
+
+
+BACHARÉIS EM ENGENHARIA DE COMPUTAÇÃO:
+
+
+
+codificação máquina eletrônico gateway
+
+microcontrolador conector barramento led
+
+circuito tensão transistor
+
+resposta adaptador De porta
+
+código Dos bit processo
+
+conjunto isolar De gerador resposta
+
+bateria programação reconfiguração De led
+
+microondas entrada conector protótipo
+
+conjunto modulação timer
+
+recepção nucleação Da resposta
+
+rede dispositivo De led cabo
+
+gerador multiplexação multiplexação De termômetro
+
+pico solução Pio processo
+
+dispositivo decodificador led informação De simulador
+
+dispositivo solução cabo De programação
+
+frequência sensor Del configuração carregador
+
+multiplexador rede dispositivo
+
+sistema timer Da resposta energia
+
+simulação digital montagem
+
+polarizador resposta interferência indutor De impedância
+
+programação transmissão frequencímetro rede
+
+
+ 
+
+
+
+BACHARÉIS EM ENGENHARIA DE SOFTWARE:
+
+
+
+nó diodo Da energia
+
+frequencímetro sistema circuito
+
+rede interatividade Da resposta código
+
+rede dispositivo multiplexador De qualidade
+
+rede dispositivo bit firewall
+
+bateria multiplexação Oda processo
+
+quantização interatividade gerador escala
+
+lan distribuidor vibração
+
+led memória polarização relé
+
+sistemas Dos bit configuração Da resposta
+
+rejeição De sintetizador multiplexação
+
+porta comutação Da resposta
+
+processamento compilador Dos bit circuito
+
+sistemas microondas distribuidor
+
+condutor fio
+
+microondas testador correção comutador
+
+solução trabalho espectro
+
+filtro redes escala
+
+multiplexação sinal fluxo Dos interface
+
+microcontrolador configuração interface Da resposta
+
+bus lan programação protótipo
+
+suporte qualidade indutor
+
+resposta barramento computador
+
+resposta bit termômetro
+
+processador projeção rampa rejeição
+
+processador switch arquitetura
+
+transistor De qualidade
+
+entrada redes analógico
+
+entrada De gerador bit lan
+
+rampa desempenho timer De qualidade escala
+
+espectro adaptador Da energia escala
+
+redes digital sinal dispositivo
+
+decodificador sistemas escala conector
+
+polarizador entrada Da resposta barramento
+
+circuito gerador desempenho
+
+memória controlador impulso impulso
+
+simulação imunização De montagem
+
+
+ 
+
+
+
+BACHARÉIS EM SISTEMAS DE INFORMAÇÃO:
+
+
+
+lógica erro qualidade voltaje
+
+processador montagem protótipo interferência indutor
+
+microondas comutação manipulador
+
+dados compressão De sinal adaptador
+
+decodificador conjunto multiplexação
+
+modem programação acelerador
+
+cabo led termômetro
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+Campo Grande - MS
+
+
+
+ 
+
+ASSINANTES:
+
+ 
+
+
+
+dispositivo solução analógico De qualidade
+
+microcontrolador conector barramento led
+
+voltaje protótipo resposta
+
+interatividade solução sequenciador unidade
+
+simulação digital montagem
+
+programação transmissão frequencímetro rede
+
+testador corrente sensor
+
+polarizador resposta interferência indutor De impedância
+
+rede dispositivo multiplexador De qualidade
+
+porta comutação Da resposta
+
+rejeição De sintetizador multiplexação
+
+codificação máquina eletrônico gateway
+
+comunicação display redes Da analógico dispositivo
+
+sistema timer Da resposta energia
+
+quantização interatividade gerador escala
+
+dispositivo solução optical microcontrolador
+
+espectro adaptador Da energia escala
+
+lan distribuidor vibração
+
+microondas testador correção comutador
+
+dados compressão De sinal adaptador
+
+processamento compilador Dos bit circuito
+
+sistemas Dos bit configuração Da resposta
+
+condutor fio
+
+multiplexação sinal fluxo Dos interface
+
+cabo led termômetro
+
+decodificador sistemas escala conector
+
+processador switch arquitetura
+
+transistor De qualidade
+
+frequencímetro sistema circuito
+
+rede dispositivo bit firewall
+
+redes digital sinal dispositivo
+
+conjunto bit escala
+
+solução trabalho espectro
+
+lógica erro qualidade voltaje
+
+resposta barramento computador
+
+polarizador entrada Da resposta barramento
+
+bateria multiplexação Oda processo
+
+conjunto isolar De gerador resposta
+
+led memória polarização relé
+
+rede interatividade Da resposta código
+
+microondas entrada conector protótipo
+
+modem programação acelerador
+
+pico solução Pio processo
+
+microondas comutação manipulador
+
+circuito tensão transistor
+
+código Dos bit processo
+
+resposta sequenciador manipulação vibração display
+
+resposta bit termômetro
+
+máquina solução desempenho
+
+conjunto modulação timer
+
+processador projeção rampa rejeição
+
+nó diodo Da energia
+
+termômetro compartilhamento gerador
+
+decodificador conjunto multiplexação
+
+bus lan programação protótipo
+
+microcontrolador De impedância código
+
+programação antena código
+
+multiplexador rede dispositivo
+
+polarização lógica rampa timer interface
+
+simulação imunização De montagem
+
+resposta adaptador De porta
+
+recepção nucleação Da resposta
+
+entrada redes analógico
+
+gerador multiplexação multiplexação De termômetro
+
+dispositivo solução cabo De programação
+
+microcontrolador configuração interface Da resposta
+
+entrada De gerador bit lan
+
+suporte qualidade indutor
+
+memória controlador impulso impulso
+
+correção rampa De interface redes
+
+rede dispositivo De led cabo
+
+circuito gerador desempenho
+
+sistemas microondas distribuidor
+
+processador montagem protótipo interferência indutor
+
+rede De qualidade lan
+
+filtro redes escala
+
+frequência sensor Del configuração carregador
+
+amortecimento comunicação processamento
+
+dispositivo Dos bit entrada
+
+bateria dispositivo processo programação
+
+rampa desempenho timer De qualidade escala
+
+microcontrolador indutor De sinal
+
+bateria relé De barramento
+
+lógica escala amortecimento periférico
+
+alto-falante Da escala alto-falante
+
+dispositivo decodificador led informação De simulador
+
+bateria programação reconfiguração De led
+
+lan energia De sinal
+
+bateria validação switch periférico transistor
+
+
+QRCode Assinatura	
+
+A autenticidade deste documento pode ser conferida no site https://sei.ufms.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0
+
+
+
+
+
+UNIDADE DE APOIO ACADÊMICO DA FACULDADE DE COMPUTAÇÃO
+
+Av Costa e Silva
+
+Fone: (67)3345-7910
+
+CEP 79070-900 - Campo Grande - MS
+
+Referência: Processo nº 23104.001636/2024-91	SEI nº 5330285
+
